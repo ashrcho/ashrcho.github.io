@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Ashwin Chockkalingam",
-  title: "Business Analytics & Strategy/Operations",
+  title: "Business Analytics, Finance, Operations & Strategy",
   description: "Portfolio website of Ashwin Chockkalingam",
   accentColor: "#1d4ed8",
   social: {
