@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/ashrcho",
   },
   aboutMe:
-    "I’m an Economics graduate with experience in business analysis, financial modeling, and data strategy. Through internships and projects, I’ve developed growth models, dashboards, and strategic recommendations that helped make better decisions. I bring a mix of analytical skills and business insight, making me well-suited to bridge data and strategy. I’m currently pursuing opportunities in business analytics, finance, and strategy/operations.",
+    "I’m an Economics graduate with experience in business analysis, financial modeling, and data strategy. Through internships and projects, I’ve worked on models, dashboards, and making strategic recommendations. I bring a mix of analytical skills and business insight, making me well-suited to bridge data and strategy. I’m currently pursuing opportunities in business analytics, finance, and strategy/operations.",
   skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau"],
   projects: [
     {
