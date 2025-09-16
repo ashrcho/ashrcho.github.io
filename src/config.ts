@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Sales KPI Dashboard",
       description:
         "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      link: "https://public.tableau.com/app/profile/ashwin.chockkalingam/viz/theLookecommerceSalesDashboard/RevenueProfitablity",
+      skills: ["BigQuery SQL", "Tableau", "Key-Performance-Indicators"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
