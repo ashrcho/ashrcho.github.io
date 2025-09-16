@@ -1,16 +1,16 @@
 export const siteConfig = {
   name: "Ashwin Chockkalingam",
-  title: "Business Analytics, Finance, Operations & Strategy",
+  title: "Business Analytics, Operations & Strategy",
   description: "Portfolio website of Ashwin Chockkalingam",
-  accentColor: "#1d4ed8",
+  accentColor: "#4182ad",
   social: {
     email: "ashwin.chockkalingam@sjsu.edu",
     linkedin: "https://linkedin.com/in/ashwinchock/",
     github: "https://github.com/ashrcho",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I’m an Economics graduate with experience in business analysis, financial modeling, and data strategy. Through internships and projects, I’ve developed growth models, dashboards, and strategic recommendations that helped make better decisions. I bring a mix of analytical skills and business insight, making me well-suited to bridge data and strategy. I’m currently pursuing opportunities in business analytics, finance, and strategy/operations.",
+  skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
