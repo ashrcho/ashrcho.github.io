@@ -10,81 +10,53 @@ export const siteConfig = {
   },
   aboutMe:
     "I’m an Economics graduate with experience in business analysis, financial modeling, and data strategy. Through internships and projects, I’ve worked on models, dashboards, and making strategic recommendations. I bring a mix of analytical skills and business insight, making me well-suited to bridge data and strategy. I’m currently pursuing opportunities in business analytics, finance, and strategy/operations.",
-  skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau"],
+  skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau", "SAP"],
   projects: [
     {
       name: "Sales KPI Dashboard",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "Comprehensive Sales & Product Performance Dashboard developed using data from an eCommerce dataset.",
       link: "https://public.tableau.com/app/profile/ashwin.chockkalingam/viz/theLookecommerceSalesDashboard/RevenueProfitablity",
       skills: ["BigQuery SQL", "Tableau", "Key-Performance-Indicators"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Predicting Customer Churn in Python",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Machine learning model that predicts how likely customers are to churn. Achieving 93% accuracy",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-  ],
+      skills: ["Python", "Machine Learning"],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Vetri Labs",
+      title: "Business Analyst Intern",
+      dateRange: "Feb 2024 - Jan 2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Built a financial model in Excel projecting 1-2 year growth, used by the CEO and leadership team to assess funding strategies and refine business goals.",
+        "Analyzed regional competitors’ market share, pricing, and customer segments to highlight differentiation opportunities and define the company’s unique value proposition.",
+        "Initiated and led the development of the company’s SBA Growth Accelerator Fund application by compiling financial data and crafting strategic proposals that strengthened the company’s case for federal funding.",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Fernweh Group",
+      title: "Finance Intern",
+      dateRange: "Sep 2023 - Jan 2024",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Managed and cleaned 10,000+ rows of employee expense data in Excel to support monthly operating cost reports.",
+        "Reconciled internal records with financial statements to ensure reporting accuracy for the VP of Finance.",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+      school: "San Jose State University",
+      degree: "Bachelor of Science in Economics",
+      dateRange: "2023 - 2025",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+      school: "University of California San Diego Extended Studied",
+      degree: "Statistics for Data Analytics",
+      dateRange: "2025",
       ],
     },
   ],
