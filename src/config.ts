@@ -54,15 +54,27 @@ export const siteConfig = {
       school: "San Jose State University",
       degree: "Bachelor of Science in Economics",
       dateRange: "2023 - 2025",
+      achievements: [
+        "Relevant Coursework: Econometric Methods, Business/Economic Forecasting,  Micro/Macroeconomic Analysis, Business Statistics, Math Methods for Economics",
+        "Dean's List",
+      ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "University of California San Diego - Extended Studies",
+      degree: "Statistics for Data Analytics",
+      dateRange: "2025",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Grade: A",
+      ],
+    },
+    {
+      school: "Google",
+      degree: "Data Analytics Professional Certificate",
+      dateRange: "2024",
+      achievements: [
+        "Completed eight courses developed by Google",
+        "Learned to prepare, process, analyze, and share data for thoughtful action",
+        "Tools: Spreadsheets, SQL, Tableau, R",
       ],
     },
   ],
