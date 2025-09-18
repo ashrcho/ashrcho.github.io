@@ -51,14 +51,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+      school: "San Jose State University",
+      degree: "Bachelor of Science in Economics",
+      dateRange: "2023 - 2025",
     },
     {
       school: "Online Platform",
