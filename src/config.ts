@@ -1,66 +1,92 @@
 export const siteConfig = {
-  name: "Ashwin Chockkalingam",
-  title: "Business Analytics, Operations & Strategy",
-  description: "Portfolio website of Ashwin Chockkalingam",
-  accentColor: "#4182ad",
+  name: "Ryan Fitzgerald",
+  title: "Senior Software Engineer",
+  description: "Portfolio website of Ryan Fitzgerald",
+  accentColor: "#1d4ed8",
   social: {
-    email: "ashwin.chockkalingam@sjsu.edu",
-    linkedin: "https://linkedin.com/in/ashwinchock/",
-    github: "https://github.com/ashrcho",
+    email: "your-email@example.com",
+    linkedin: "https://linkedin.com/in/yourprofile",
+    twitter: "https://x.com/rfitzio",
+    github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
-    "I’m an Economics graduate with experience in business analysis, financial modeling, and data strategy. Through internships and projects, I’ve worked on models, dashboards, and making strategic recommendations. I bring a mix of analytical skills and business insight, making me well-suited to bridge data and strategy. I’m currently pursuing opportunities in business analytics, finance, and strategy/operations.",
-  skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau", "SAP"],
-
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
-      name: "Sales KPI Dashboard",
+      name: "AI Dev Roundup Newsletter",
       description:
-        "Comprehensive Sales & Product Performance Dashboard developed using data from an eCommerce dataset.",
-      link: "https://public.tableau.com/app/profile/ashwin.chockkalingam/viz/theLookecommerceSalesDashboard/RevenueProfitablity",
-      skills: ["BigQuery SQL", "Tableau", "Key-Performance-Indicators"],
+        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+      link: "https://aidevroundup.com/?ref=devportfolio",
+      skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "Predicting Customer Churn in Python",
+      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
       description:
-        "Machine learning model that predicts how likely customers are to churn. Achieving 93% accuracy",
+        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["Python", "Machine Learning"],
+      skills: ["React", "Node.js", "AWS"],
+    },
+    {
+      name: "ExtensionKit",
+      description:
+        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+      link: "https://extensionkit.io/?ref=devportfolio",
+      skills: ["React", "Node.js", "AWS"],
     },
   ],
-
   experience: [
     {
-      company: "Vetri Labs",
-      title: "Business Analyst Intern",
-      dateRange: "Feb 2024 - Jan 2025",
+      company: "Tech Company",
+      title: "Senior Software Engineer",
+      dateRange: "Jan 2022 - Present",
       bullets: [
-        "Built a financial model in Excel projecting 1-2 year growth, used by the CEO and leadership team to assess funding strategies and refine business goals.",
-        "Analyzed regional competitors’ market share, pricing, and customer segments to highlight differentiation opportunities and define the company’s unique value proposition.",
-        "Initiated and led the development of the company’s SBA Growth Accelerator Fund application by compiling financial data and crafting strategic proposals that strengthened the company’s case for federal funding.",
+        "Led development of microservices architecture serving 1M+ users",
+        "Reduced API response times by 40% through optimization",
+        "Mentored team of 5 junior developers",
       ],
     },
     {
-      company: "Fernweh Group",
-      title: "Finance Intern",
-      dateRange: "Sep 2023 - Jan 2024",
+      company: "Startup Inc",
+      title: "Full Stack Developer",
+      dateRange: "Jun 2020 - Dec 2021",
       bullets: [
-        "Managed and cleaned 10,000+ rows of employee expense data in Excel to support monthly operating cost reports.",
-        "Reconciled internal records with financial statements to ensure reporting accuracy for the VP of Finance.",
+        "Built and launched MVP product from scratch using React and Node.js",
+        "Implemented CI/CD pipeline reducing deployment time by 60%",
+        "Collaborated with product team to define technical requirements",
+      ],
+    },
+    {
+      company: "Digital Agency",
+      title: "Frontend Developer",
+      dateRange: "Aug 2018 - May 2020",
+      bullets: [
+        "Developed responsive web applications for 20+ clients",
+        "Improved site performance scores by 35% on average",
+        "Introduced modern JavaScript frameworks to legacy codebases",
       ],
     },
   ],
-
   education: [
     {
-      school: "San Jose State University",
-      degree: "Bachelor of Science in Economics",
-      dateRange: "2023 - 2025",
+      school: "University Name",
+      degree: "Bachelor of Science in Computer Science",
+      dateRange: "2014 - 2018",
+      achievements: [
+        "Graduated Magna Cum Laude with 3.8 GPA",
+        "Dean's List all semesters",
+        "President of Computer Science Club",
+      ],
     },
     {
-      school: "University of California San Diego Extended Studies",
-      degree: "Statistics for Data Analytics",
-      dateRange: "2025",
+      school: "Online Platform",
+      degree: "Full Stack Development Certificate",
+      dateRange: "2019",
+      achievements: [
+        "Completed 500+ hours of coursework",
+        "Built 10+ portfolio projects",
+        "Specialized in React and Node.js",
+      ],
     },
   ],
 };
