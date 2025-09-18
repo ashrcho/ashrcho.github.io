@@ -6,7 +6,6 @@ export const siteConfig = {
   social: {
     email: "ashwin.chockkalingam@sjsu.edu",
     linkedin: "https://linkedin.com/in/ashwinchock/",
-    twitter: "https://x.com/rfitzio",
     github: "https://github.com/ashrcho",
   },
   aboutMe:
