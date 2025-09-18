@@ -1,38 +1,31 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#1d4ed8",
+  name: "Ashwin Chockkalingam",
+  title: "Business Analytics, Operations & Strategy",
+  description: "Portfolio website of Ashwin Chockkalingam",
+  accentColor: "#4182ad",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    email: "ashwin.chockkalingam@sjsu.edu",
+    linkedin: "https://linkedin.com/in/ashwinchock/",
     twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    github: "https://github.com/ashrcho",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I’m an Economics graduate with experience in business analysis, financial modeling, and data strategy. Through internships and projects, I’ve worked on models, dashboards, and making strategic recommendations. I bring a mix of analytical skills and business insight, making me well-suited to bridge data and strategy. I’m currently pursuing opportunities in business analytics, finance, and strategy/operations.",
+  skills: ["Python", "SQL", "R", "Microsoft Excel", "Tableau", "SAP"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Sales KPI Dashboard",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Comprehensive Sales & Product Performance Dashboard developed using data from an eCommerce dataset.",
+      link: "https://public.tableau.com/app/profile/ashwin.chockkalingam/viz/theLookecommerceSalesDashboard/RevenueProfitablity",
+      skills: ["BigQuery SQL", "Tableau", "Key-Performance-Indicators"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Predicting Customer Churn in Python",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Machine learning model that predicts how likely customers are to churn. Achieving 93% accuracy",
+      link: "https://github.com/ashrcho/ChurnProject",
+      skills: ["Python", "Machine Learning"],
     },
   ],
   experience: [
