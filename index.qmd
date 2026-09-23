@@ -1,7 +1,20 @@
 ---
-title: "ashrcho.github.io"
+title: "Ashwin Chockkalingam"
+image: "images/headshot.jpeg"
+toc: false
+about:
+    template: solana
+    image-shape: rounded
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/ashwinchock/
+          target: _blank
+        - text: Email
+          href: mailto:ashwin_chockkalingam@ucsb.edu
+        - text: GitHub 
+          href: https://github.com/ashrcho
+          target: _blank
+
 ---
 
-This is a Quarto website. 
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is where my bio will go.
