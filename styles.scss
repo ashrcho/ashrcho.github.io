@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+
+// Colors (define your palette)
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
+
+// Assign to Quarto Sass variables
+$navbar-bg: $cream;        // navbar background
+$navbar-fg: $dark-green;   // navbar text/icons
+$navbar-hl: $purple;       // navbar hover highlight
+$body-bg: $light-green;    // page background
+$body-color: $gray;        // page text
+$footer-bg: $cream;        // footer background
+$link-color: $purple;      // hyperlinks
+$code-bg: $cream;          // inline code background
+$code-color: $purple;      // inline code text
